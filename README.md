@@ -2,7 +2,7 @@
 <br>
 南華大學跨領域-人工智慧期末報告
 <br>
-主題:不平衡分類： Timeseries forecasting for weather prediction（天氣預報的時間序列預測）
+主題 ： Timeseries forecasting for weather prediction（天氣預報的時間序列預測）
 <br>
 學號 : 10924203 、 10924308 、 10924207 
 <br>
