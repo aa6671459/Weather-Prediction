@@ -4,7 +4,7 @@
 <br>
 主題 ： Timeseries forecasting for weather prediction（天氣預報的時間序列預測）
 <br>
-學號 : 10924203 、 10924308 、 10924207 
+學號 : 10924203 、 10924308
 <br>
 參考網址 : https://keras.io/examples/timeseries/timeseries_weather_forecasting/
 <br>
